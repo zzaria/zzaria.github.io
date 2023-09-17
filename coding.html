@@ -1,0 +1,60 @@
+---
+layout: default
+title: Coding
+---
+<div class="coding">
+	<div class="section1">
+		<div class="intro">
+			<h1>Contest Programming</h2>
+				<p>Dmoj: <a href="https://dmoj.ca/user/Aaeria" style="color:darkviolet;">Aaeria</a> |
+				Codeforces: <a href="https://codeforces.com/profile/Aaeria" style="color:orange;">Aaeria</a></p>
+				<p><a href="https://discord.com/invite/VEWFpgPhnz">CCC discord</a></p>
+		</div>
+	</div>
+	<div style="height:150px;"></div>
+	<div class="section2">
+		<h1>Competitive programming</h1>
+		<p>orz <img src="https://emot.cf/orz2.gif" /></p>
+		
+
+		<h2>Contest History</h2>
+		<p>I don't have many because I'm not very good.</p>
+		{% for item in site.data.contests %}
+			<h3>{{item.year}}</h3>
+			<ul class="contestList">
+				{% for item in item.contests %}
+					<li><img src="{{item.img}}"></img>
+						<a href="{{item.link}}">{{item.name}}</a>
+						<p>{{item.comment}}</p>
+					</li>
+				{% endfor %}	
+			</ul>
+		{% endfor %}
+		<h2>Contest Fails</h2>
+		<p>This is really embarrassing...</p>
+		<ul class="contestList">
+			{% for item in site.data.contests_bad %}
+				<li><img src="{{item.img}}"></img>
+					<a href="{{item.link}}">{{item.name}}</a>
+					<p>{{item.comment}}</p>
+				</li>
+			{% endfor %}
+		</ul>
+		<h2>Contests</h2>
+		<p>Contests I set or tested:</p>
+		<ul>
+			{% for item in site.data.contests_set %}
+			<li><a href="{{item.link}}">{{item.name}}</a></li>
+			{%endfor%}
+		</ul>
+		<a href="https://github.com/zzaria/test-data">Test data and other contest materials</a>
+		<h2>Competitive Programming Discord Server</h2>
+		<p><a href="https://discord.com/invite/VEWFpgPhnz">Join the CCC</a></p>
+		<br>
+		<p>Thank you <span style="color:red;">bruce</span>, my teacher 2017-2020</p>
+	</div>
+	<div class="section3">
+		<hr>
+		{% include links_footer.html %}
+	</div>
+</div>

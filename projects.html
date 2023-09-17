@@ -1,0 +1,42 @@
+---
+layout: default
+title: Gallery
+---
+<div class="project">
+	<div class="section1">
+		<div class="intro">
+			<h1>Projects</h1>
+		</div>
+	</div>
+	<div class="section2">
+		<h1>Gallery</h1>
+		<div class="projectGrid">
+			{% for item in site.data.projects %}
+				<div class="projectBox">
+					<img src="{{item.thumbnail}}">
+					<div class="projecttext">
+						<h2>{{item.name}}</h2>
+						<p>{{item.description}}</p>
+						<a href="{{item.links}}">
+							<div class="projectbutton">Link</div>
+						</a>
+					</div>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+	<div class="section3" id="contact">
+		<hr>
+		{% include links_footer.html %}
+	</div>
+</div>
+<script>
+	const navbar = document.querySelector('.nav');
+	window.onscroll = () => {
+		if (window.scrollY > 500) {
+			navbar.classList.add('nav-scroll');
+		} else {
+			navbar.classList.remove('nav-scroll');
+		}
+	};
+</script>

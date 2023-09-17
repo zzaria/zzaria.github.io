@@ -1,0 +1,234 @@
+- year: 2022
+  contests:
+  - link: "https://codeforces.com/contest/1630/standings/participant/135656872#p135656872" 
+    comment: 136 (2630 perf)
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Round #768 (Div. 1) (virtual)"
+  - link: "https://codeforces.com/contest/1641/standings/participant/135622538#p135622538" 
+    comment: 38 (2972 perf)
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Round #773 (Div. 1) (Virtual)"
+  - link: "https://dmoj.ca/contest/dmopc21c10/ranking/#!Aaeria" 
+    comment: 168 - Solved p6 but missed a single modulus and got WA
+    img: /assets/images/contest-icons/dmoj.png
+    name: "DMOPC 2022 June"
+  - link: "https://dmoj.ca/contest/cco22d2/ranking/#!Aaeria" 
+    comment: 15th - random WA on p1 and p2, p3 took too long
+    img: /assets/images/contest-icons/uwaterloo.ico
+    name: "Canadian Computing Olympiad 2022 Day 2 (mirror)"
+  - link: "https://dmoj.ca/contest/cco22d1/ranking/#!Aaeria" 
+    comment: 1
+    img: /assets/images/contest-icons/uwaterloo.ico
+    name: "Canadian Computing Olympiad 2022 Day 1 (mirror)"
+  - link: "https://codeforces.com/contest/1685/standings/participant/133661296#p133661296" 
+    comment: 55 (2937 perf) - rare afternoon round
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Round #794 (Div. 1)"
+- year: 2021
+  contests:
+  - link: "https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435914" 
+    comment: 47
+    img: /assets/images/contest-icons/google.ico
+    name: "Google Kickstart 2021 H"
+  - link: "https://dmoj.ca/contest/aac3/ranking/#!Aaeria" 
+    comment: 238
+    img: /assets/images/contest-icons/dmoj.png
+    name: "An Animal Contest 3"
+  - link: "https://dmoj.ca/contest/cpc21c1/ranking/#!Aaeria" 
+    comment: 74
+    img: /assets/images/contest-icons/dmoj.png
+    name: "CPC '21 Contest 1"
+  - link: "https://lit.lhsmathcs.org/scoreboard2021" 
+    comment: 10th
+    img: /assets/images/contest-icons/computer.jpg
+    name: "LIT 2021"
+  - link: "https://mbit.mbhs.edu/archive/2021s" 
+    comment: 5th (2nd in high school) - got carried by team
+    img: /assets/images/contest-icons/computer.jpg
+    name: "mBIT Spring 2021"
+  - link: "https://codeforces.com/contest/1528/standings/participant/114430240#p114430240" 
+    comment: 193rd - Had so much penalty and still half asleep but no fst this time woohoo!
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Round #722 (Div. 1)"
+  - link: "https://www.cemc.uwaterloo.ca/contests/past_contests/2021/2021CCOResults.pdf" 
+    comment: 5th - problems too hard :blobweary
+    img: /assets/images/contest-icons/uwaterloo.ico
+    name: "Canadian Computing Olympiad 2021D1"
+  - link: "https://dmoj.ca/contest/dmopc20c4/ranking/#!Aaeria" 
+    comment: 7th - Should have solved p5 instead of trying p6
+    img: /assets/images/contest-icons/dmoj.png
+    name: "DMOPC '20 April Contest"
+  - link: "https://whs-resources.github.io/whs-cpt-public/" 
+    comment: 1st (Team) - some problems had bad data but at least we won
+    img: /assets/images/contest-icons/computer.jpg
+    name: "Westlake High School Competitive Programming Tournament"
+  - link: "[https://codeforces.com/contest/1458/standings/participant/111220894#p111220894]" 
+    comment: 63rd
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Round #691 (Div. 1) (Virtual)"
+  - link: "[https://dmoj.ca/contest/dmopc20c4/ranking/#!Aaeria]" 
+    comment: 12th
+    img: /assets/images/contest-icons/dmoj.png
+    name: "DMOPC '20 March Contest"
+  - link: "[https://codeforces.com/contest/1491/standings/participant/110909404#p110909404]" 
+    comment: 327th
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Global Round 13 (Virtual)"
+  - link: "[http://www.usaco.org/current/data/feb20_platinum_results.html]" 
+    comment: 16th - should have done p3 partials instead of going to sleep
+    img: /assets/images/contest-icons/usaco.ico
+    name: "USACO Feb 2021 Platinum"
+  - link: "[https://codeforces.com/contest/1470/standings/participant/110291644#p110291644]" 
+    comment: 491st
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Round #694 (Div. 1) (Virtual)"
+  - link: "[https://codeforces.com/contest/1477/standings/participant/110252878#p110252878]" 
+    comment: 152nd
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Round #698 (Div. 1) (Virtual)"
+  - link: "[https://codeforces.com/contest/1487/standings/participant/110110189#p110110189]" 
+    comment: 91st
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Educational Codeforces Round 104 (Rated for Div. 2) (Virtual)"
+  - link: "[https://codeforces.com/contest/1490/standings/participant/110034040#p110034040]" 
+    comment: 253th
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Round #702 (Div. 3) (Virtual)"
+  - link: "[https://cemc.uwaterloo.ca/contests/past_contests/CCCResults.pdf]" 
+    comment: 1st
+    img: /assets/images/contest-icons/uwaterloo.ico
+    name: "CCC 2021 Senior"
+  - link: "[https://codeforces.com/contest/1485/standings/participant/109926892#p109926892]" 
+    comment: 129th
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Round #701 (Div. 2) (Virtual)"
+  - link: "[https://codeforces.com/contest/1479/standings/participant/109511523#p109511523]" 
+    comment: 31st
+    img: /assets/images/contest-icons/codeforces.png
+    name: "Codeforces Round #700 (Div. 1) (Virtual)"
+  - link: "[https://dmoj.ca/contest/appleby20/ranking/#!Aaeria]" 
+    comment: 9th
+    img: /assets/images/contest-icons/dmoj.png
+    name: "Appleby Contest '20"
+  - link: "[https://dmoj.ca/contest/nccc8s/ranking/#!Aaeria]" 
+    comment: 6th
+    img: /assets/images/contest-icons/dmoj.png
+    name: "Mock CCC '21 Senior"
+- year: 2020
+  contests:
+  - link: "[https://dmoj.ca/contest/ioi20d1/ranking/#!Aaeria]" 
+    comment: 43rd
+    img: /assets/images/contest-icons/ioi.png
+    name: "2020 International Olympiad in Informatics Day 1 (Mirror)"
+  - link: "[https://www.cemc.uwaterloo.ca/contests/past_contests/2020/2020CCOResults.pdf]" 
+    comment: 11th place
+    img: /assets/images/contest-icons/uwaterloo.ico
+    name: "Canadian Computing Olympiad 2020"
+  - link: "[https://dmoj.ca/contest/dmopc19c7/ranking/#!Aaeria]" 
+    comment: 14th place
+    img: /assets/images/contest-icons/dmoj.png
+    name: "DMOPC '19 April Contest"
+  - link: "[https://ucccoders.github.io/contest/2020/main.html]" 
+    comment: 2nd place
+    img: /assets/images/contest-icons/computer.jpg
+    name: "2020 UCC Coding Competition"
+  - link: "[https://dmoj.ca/contest/dmopc19c6/ranking/#!Aaeria]" 
+    comment: 18th place
+    img: /assets/images/contest-icons/dmoj.png
+    name: "DMOPC '19 March Contest"
+  - link: "https://codingcompetitions.withgoogle.com/codejam/round/000000000019ff31" 
+    name: "Google CodeJam 2020 2" 
+    img: /assets/images/contest-icons/google.ico
+    comment: "2060th place"
+  - link: "https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74" 
+    name: "Google CodeJam 2020 1A" 
+    img: /assets/images/contest-icons/google.ico
+    comment: "1174th place"
+  - link: "https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffc8" 
+    name: "Google Kickstart 2020 B" 
+    img: /assets/images/contest-icons/google.ico
+    comment: "347th place"
+  - link: "https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffc7" 
+    name: "Google Kickstart 2020 A" 
+    img: /assets/images/contest-icons/google.ico
+    comment: "390th place"
+  - link: "http://www.usaco.org/current/data/feb20_platinum_results.html" 
+    name: "USACO Feb 2020 Platinum" 
+    img: /assets/images/contest-icons/usaco.ico
+    comment: "148th place"
+  - link: "http://www.usaco.org/current/data/feb20_gold_results.html" 
+    name: "USACO Feb 2020 Gold" 
+    img: /assets/images/contest-icons/usaco.ico
+    comment: "1st place"
+  - link: "https://www.uwaterloo.ca/contests/past_contests/2020/2020CCCResults.pdf" 
+    name: "CCC 2020 Senior" 
+    img: /assets/images/contest-icons/uwaterloo.ico
+    comment: "12th place"
+  - link: "https://dmoj.ca/contest/mockccc2020c1j/ranking/#!Aaeria" 
+    name: "Mock CCC '20 Contest 1 Junior" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "1st place"
+  - link: "https://dmoj.ca/contest/mccc2/ranking/#!Aaeria" 
+    name: "Mock CCC '20 Contest 2 Senior" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "13th place"
+  - link: "https://dmoj.ca/contest/mccc1/ranking/#!Aaeria" 
+    name: "Mock CCC '20 Contest 1 Senior" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "8th place"
+  - link: "https://dmoj.ca/contest/wac3/ranking/#!Aaeria" 
+    name: "Wesley’s Anger Contest 3" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "16th place"
+  - link: "http://www.usaco.org/current/data/jan20_silver_results.html" 
+    name: "USACO Jan 2020 Silver" 
+    img: /assets/images/contest-icons/usaco.ico
+    comment: "1st place"
+- year: 2019
+  contests:
+  - link: "https://dmoj.ca/contest/dmopc19c4/ranking/#!Aaeria" 
+    name: "DMOPC '19 December Contest" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "24th place"
+  - link: "http://www.usaco.org/current/data/dec19_bronze_results.html" 
+    name: "USACO Dec 2019 Bronze" 
+    img: /assets/images/contest-icons/usaco.ico
+    comment: "1st place"
+  - link: "https://dmoj.ca/contest/globexcup19s/ranking/#!Aaeria" 
+    name: "GlobeX Cup '19 Senior" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "12th place"
+  - link: "https://dmoj.ca/contest/globexcup19j/ranking/#!Aaeria" 
+    name: "GlobeX Cup '19 Junior" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "1st place"
+  - link: "https://dmoj.ca/contest/dmopc19c3/ranking/#!Aaeria" 
+    name: "DMOPC '19 November Contest" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "21st place"
+  - link: "https://dmoj.ca/contest/wac2/ranking/#!Aaeria" 
+    name: "Wesley’s Anger Contest 2" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "14th place"    
+  - link: "https://dmoj.ca/contest/dmopc19c2/ranking/#!Aaeria" 
+    name: "DMOPC '19 October Contest" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "17th place"
+  - link: "https://dmoj.ca/contest/dmopc19c1/ranking/#!Aaeria" 
+    name: "DMOPC '19 September Contest" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "12th place"
+  - link: "https://dmoj.ca/contest/bfs19/ranking/#!Darcy___Liu" 
+    name: "Back From Summer '19" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "21st place"
+  - link: "https://dmoj.ca/contest/acc5/ranking/#!Darcy___Liu" 
+    name: "Another Contest 5" 
+    img: /assets/images/contest-icons/dmoj.png
+    comment: "13th place"
+- year: 2017
+  contests:
+  - link: "https://www.cemc.uwaterloo.ca/contests/past_contests/2017/2017CCCResults.pdf" 
+    name: "CCC 2017 Junior" 
+    img: /assets/images/contest-icons/uwaterloo.ico
+    comment: "1st place"

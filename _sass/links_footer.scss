@@ -1,0 +1,16 @@
+.links_footer {
+    a {
+        color: inherit;
+        text-decoration: inherit;
+    }
+
+    i {
+        font-size: 2em;
+        margin: 0 0.5em;
+    }
+}
+
+%links_footer_container{
+    text-align: center;
+    overflow: auto;
+}

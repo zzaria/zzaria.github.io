@@ -1,0 +1,93 @@
+@use "links_footer";
+.project {
+    .section1 {
+        height: 100vh;
+        background-image: url(images/d2q6q8t-335c3992-9f28-410c-a9c3-ffad5c6faacf.jpg);
+        background-size: cover;
+        overflow: auto;
+        position: relative;
+
+        .intro {
+            text-align: center;
+            margin: 40vh auto;
+            font-size: 2em;
+            color: black;
+        }
+    }
+
+
+    .section2 {
+        max-width: 1100px;
+        margin: auto;
+        padding: 100px;
+        p{
+            font-family: 'poppins';
+        }
+
+        h1 {
+            font-family: arial;
+            font-weight: 900;
+            text-align: center;
+        }
+
+    }
+
+    .projectGrid{
+        display:grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 1em;
+    }
+    .projectBox {
+        animation-duration: 0.5s;
+        animation-fill-mode: both;
+        img {
+            width:100%;
+            box-shadow: 0px 0px 5px 0px darkslategrey;
+        }
+    }
+    .projecttext {
+        display: inline-block;
+        font-size: 0.8em;
+        font-family: arial;
+        vertical-align: top;
+        padding: 1em;
+        max-width: 40em;
+
+        h2 {
+            margin: 0 0 0.5em 0;
+        }
+    }
+
+    .projectbutton {
+        border: 1px solid white;
+        display: inline;
+        padding: 4px;
+    }
+
+    .projectbutton:hover {
+        background-color: white;
+        box-shadow: 0px 0px 9px 2px ivory;
+        color: black;
+    }
+
+    .section3 {
+        @extend %links_footer_container;
+        padding: 1em;
+    }
+
+}
+@media (prefers-color-scheme: dark) {
+    .project{
+        background-color: darkslategrey;
+        .section2{
+            h1,h2,p,.projectbutton,.section3{
+                color: mintcream;
+            }
+        }
+    }
+}
+
+.nav-scroll {
+    background-color: rgb(0, 0, 0, 0.5);
+    transition: 500ms;
+}

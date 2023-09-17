@@ -1,0 +1,68 @@
+@use 'navigation';
+@use 'links_footer';
+@use 'index';
+@use 'coding';
+@use 'projects';
+
+@font-face {
+    font-family: "forte";
+    src: url(font/FORTE.TTF);
+}
+
+@font-face {
+    font-family: "open sans";
+    src: url(font/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "open sans light";
+    src: url(font/OpenSans-Light.ttf);
+}
+
+@font-face {
+    font-family: "poppins";
+    src: url(font/Poppins-Regular.ttf);
+}
+
+div,
+span,
+p,
+h1,
+h2 {
+    font-family: "open sans", Verdana, sans-serif;
+}
+
+html {
+    min-height: 100vh;
+    position: relative;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-size: 2.2vh;
+}
+
+p img {
+    height: 1em;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    p{
+        margin:0;
+    }
+}
+
+
+
+
