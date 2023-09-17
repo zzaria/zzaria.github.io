@@ -1,8 +1,9 @@
-@use 'navigation';
-@use 'links_footer';
-@use 'index';
-@use 'coding';
-@use 'projects';
+@import 'navigation';
+@import 'links_footer';
+@import 'index';
+@import 'coding';
+@import 'projects';
+//@use doesn't work on github pages?
 
 @font-face {
     font-family: "forte";
