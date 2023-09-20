@@ -1,7 +1,7 @@
 - name: "Herriot"
   description: "Contest problem organizer"
   links: "https://github.com/zzaria/JOMD"
-  thumbnail: "https://herriot.tk/favicon.ico"
+  thumbnail: "assets/images/gallery-thumbnails/herriot.png"
 - name: "JOMD"
   description: "Discord bot for DMOJ"
   links: "https://github.com/zzaria/JOMD"

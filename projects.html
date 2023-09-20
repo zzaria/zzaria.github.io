@@ -15,11 +15,13 @@ title: Gallery
 				<div class="projectBox">
 					<img src="{{item.thumbnail}}">
 					<div class="projecttext">
-						<h2>{{item.name}}</h2>
-						<p>{{item.description}}</p>
-						<a href="{{item.links}}">
-							<div class="projectbutton">Link</div>
-						</a>
+						<div>
+							<h2>{{item.name}}</h2>
+							<a href="{{item.links}}">
+								<span class="projectbutton">Link</span>
+							</a>
+						</div>
+						<span>{{item.description}}</span>
 					</div>
 				</div>
 			{% endfor %}
