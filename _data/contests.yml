@@ -1,3 +1,9 @@
+- year: 2023
+  contests:
+  - link: "#contests" 
+    comment: 1st - for some reason I didn't appear on the leaderboard
+    img: /assets/images/contest-icons/usaco.ico
+    name: "USACO Jan 2023 Platinum"
 - year: 2022
   contests:
   - link: "https://codeforces.com/contest/1630/standings/participant/135656872#p135656872" 
