@@ -20,20 +20,22 @@ title: Coding
 	<div class="section2">
 		<h1>Competitive programming</h1>
 		
-
-		<h2 id="contests">Contest History</h2>
-		<p>I don't have many because I'm not very good.</p>
-		{% for item in site.data.contests %}
-			<h3>{{item.year}}</h3>
-			<ul class="contestList">
-				{% for item in item.contests %}
-					<li><img src="{{item.img}}"></img>
-						<a href="{{item.link}}">{{item.name}}</a>
-						<p>{{item.comment}}</p>
-					</li>
-				{% endfor %}	
-			</ul>
-		{% endfor %}
+		<div x-data="{highlight:false}">
+			<h2 id="contests">Contest History</h2>
+			<input type="checkbox" id="showHighlight" x-on:click="highlight=!highlight">
+			<label for="showHighlight">Extended list (include contests i'm not satisfied with)</label>
+			{% for item in site.data.contests %}
+				<h3>{{item.year}}</h3>
+				<ul class="contestList">
+					{% for item in item.contests %}
+						<li {%if item.highlight!="highlight" %}x-show="highlight" x-transition{%endif%}><img src="{{item.img}}"></img>
+							<a {%if item.link%} href="{{item.link}}" {%endif%}>{{item.name}}</a> {{item.date}}
+							<p>{{item.comment}}</p>
+						</li>
+					{% endfor %}	
+				</ul>
+			{% endfor %}
+		</div>
 		<h2>Contest Fails</h2>
 		<p>This is really embarrassing...</p>
 		<ul class="contestList">
