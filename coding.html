@@ -23,7 +23,7 @@ title: Coding
 		<div x-data="{highlight:false}">
 			<h2 id="contests">Contest History</h2>
 			<input type="checkbox" id="showHighlight" x-on:click="highlight=!highlight">
-			<label for="showHighlight">Extended list (include contests i'm not satisfied with)</label>
+			<label for="showHighlight">Extended list (includes contest unsatisfactory contests)</label>
 			{% for item in site.data.contests %}
 				<h3>{{item.year}}</h3>
 				<ul class="contestList">
