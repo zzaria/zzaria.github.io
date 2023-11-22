@@ -16,10 +16,6 @@
     highlight: "highlight"
 - year: 2022
   contests:
-  - link: "https://codeforces.com/contest/1630/standings/participant/135656872#p135656872" 
-    comment: 136 (2630 perf)
-    img: /assets/images/contest-icons/codeforces.png
-    name: "Codeforces Round #768 (Div. 1) (virtual)"
   - link: "https://codeforces.com/contest/1641/standings/participant/135622538#p135622538" 
     comment: 38 (2972 perf)
     img: /assets/images/contest-icons/codeforces.png
@@ -45,7 +41,7 @@
   - link: "https://codeforces.com/contest/1627/standings/participant/129322171#p129322171"
     comment: "40 - did lookcook's round"
     img: /assets/images/contest-icons/codeforces.png
-    name: "Codeforces Round 766 (Div. 2)"
+    name: "Codeforces Round 766 (Div. 2) (Virtual)"
     highlight: "highlight"
 - year: 2021
   contests:
