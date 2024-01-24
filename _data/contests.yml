@@ -1,10 +1,5 @@
 - year: 2023
   contests:
-  - link: "https://codeforces.com/contest/1893/standings/participant/167281250#p167281250" 
-    comment: 169 - 3 digit rank in 2023 :(
-    img: /assets/images/contest-icons/codeforces.png
-    name: "Codeforces Round #768 (Div. 1) (virtual)"
-    date: "2023-11-07"
   - link: "https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/1709445762890453" 
     name: "Facebook Hacker Cup 2023"
     comment: 185 - got triple FST on round 2, messed up B,C,D on round 3, somehow still got top 200
